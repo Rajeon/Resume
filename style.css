@@ -1,0 +1,9 @@
+#demon{
+border: 3px solid black;
+}
+
+.list{
+  width: auto;
+  margin:auto;
+  border: 1px solid black;
+}
